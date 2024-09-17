@@ -1,0 +1,3 @@
+﻿nrInst,nrAgencia,cdClient,nmClient,nrCpfCnpj,nrContrato,dtContrato,qtPrestacoes,vlTotal,cdProduto,dsProduto,cdCarteira,dsCarteira,nrProposta,nrPresta,tpPresta,nrSeqPre,dtVctPre,vlPresta,vlMora,vlMulta,vlOutAcr,vlIof,vlDescon,vlAtual,idSituac,idSitVen
+533,32,56133,CLIENTE 1,41854274761,733067,20221227,5,83720.19,777,CDC PESSOA JURIDICA,17,CRÉDITO DIRETO AO CONSUMIDOR,798586,2,Original,0,20220406,17524.03,29196.96,536.4,0,0,0,47257.39,Aberta,Vencida
+533,32,56133,CLIENTE 1,41854274761,733067,20221227,5,83720.19,777,CDC PESSOA JURIDICA,17,CRÉDITO DIRETO AO CONSUMIDOR,798586,3,Original,0,20241113,98750.27,43130.98,77238.37,0,0,0,219119.62,Aberta,Vencida
